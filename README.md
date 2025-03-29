@@ -1,14 +1,14 @@
 ## Excel_Sales-Dashboard
-### 📊 Excel Dashboard - Shipment & Profit Analysis
-## 📌 Overview
+# 📊 Excel Dashboard - Shipment & Profit Analysis
+# 📌 Overview
 This Excel dashboard provides an interactive analysis of shipment modes, profitability trends, and product performance. It leverages Pivot Tables and Slicers to create dynamic visualizations for better decision-making.
 
 # 📈 Features & Insights
-# Shipment Mode Analysis:
+## Shipment Mode Analysis:
 
 Pie Chart displaying the distribution of different shipment modes.
 
-# Profitability Analysis:
+## Profitability Analysis:
 
 Top 5 Most Profitable States based on total profit.
 
@@ -16,7 +16,7 @@ Top 3 Least Profitable Products, highlighting underperforming items.
 
 Top 10 Most Profitable Products for revenue optimization.
 
-# Interactive Filters (Slicers):
+## Interactive Filters (Slicers):
 
 Filter data by Shipment Mode, Customer Segment, and Product Category.
 
